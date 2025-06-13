@@ -11,6 +11,7 @@ import Blogs from './Blogs';
 import Schedule from './Schedule';
 import Benifits from './Benifits';
 import Contact from './Contact';
+import Testimonals from './Testimonals';
 
 function App() {
 
@@ -18,7 +19,7 @@ function App() {
   return (
     <>
     <Hero/>
-    
+    <Benifits/>
     <About/>
     <Instructor/>
     <Programs/>
@@ -26,7 +27,7 @@ function App() {
     <Blogs/>
     <ZenithYoga/>
     <Schedule/>
-    <Benifits/>
+    <Testimonals/>
     <Contact/>
     </>
   )
