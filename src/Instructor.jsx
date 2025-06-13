@@ -2,7 +2,7 @@ import React from 'react';
 import man from './assets/man.svg';
 import girl1 from './assets/girl1.svg';
 import girl3 from './assets/girl3.svg';
-export default function Hero(){
+export default function Instructor(){
     return(
          <div className="font-sans bg-white-50 text-gray-800">
             {/* Instructors */}

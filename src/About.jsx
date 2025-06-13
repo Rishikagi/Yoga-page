@@ -1,4 +1,4 @@
-export default function Hero(){
+export default function About(){
     return(
          <div className="font-sans bg-white-50 text-gray-800">
             

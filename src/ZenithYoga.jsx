@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 import photo1 from './assets/photo1.svg';
 import photo2 from './assets/photo2.svg';
 import photo3 from './assets/photo3.svg';
@@ -25,18 +17,7 @@ import social3 from './assets/social3.svg';
  export default  function ZenithYoga(){
   return (
     <div className="font-sans bg-white-50 text-gray-800">
-     
-
-
-     
-      
-
-      
-
-     
-
-     
-{/* Photo Gallery */}
+    {/* Photo Gallery */}
       <div className="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
         <h2 className="text-3xl font-bold text-center mb-12 text-purple-700">Photo Gallery</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 bg-light">

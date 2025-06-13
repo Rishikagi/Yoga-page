@@ -1,7 +1,7 @@
 import class1 from './assets/class1.svg';
 import class2 from './assets/class2.svg';
 import class3 from './assets/class3.svg';
-export default function Hero(){
+export default function Programs(){
     return(
          <div className="font-sans bg-white-50 text-gray-800">
             {/* Programs */}
